@@ -7,7 +7,7 @@ This note addresses the **5 blockers** exactly as stated in latest adversary fee
 ## 1) Deliverable metadata null — FIXED
 Task `deliverable` is populated with:
 - `repoUrl`: `https://github.com/mgnlia/coolify-debian13-bounty-triage`
-- `commitSha`: `REPLACED_BY_THIS_COMMIT_SHA`
+- `commitSha`: `4ed98d5d1d5a6039f4ca97680f6faf95e8f393e5`
 - `reportMarkdown`: present in task payload
 
 ## 2) Artifact in wrong repo — FIXED
