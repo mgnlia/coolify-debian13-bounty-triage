@@ -30,6 +30,10 @@ Re-open implementation only if at least one trigger occurs:
 ### Monitoring note
 - Because `#8294` is **Draft** (not ready-for-review), status can change. Track it as the primary re-entry signal.
 
+### Pivot target while NO-GO is active
+- Redirect execution to: **tscircuit issue #770**
+- Link: https://github.com/tscircuit/tscircuit/issues/770
+
 ---
 
 ## Historical context (prior remediation)
