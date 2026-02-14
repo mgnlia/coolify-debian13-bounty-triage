@@ -1,0 +1,7 @@
+id,artifact_type,url,status,date,evidence,implication
+COMP-001,github_issue,https://github.com/coollabsio/coolify/issues/8154,open,2026-02-14,"Issue open with bounty labels and implementation-plan requirement",Scope remains actionable
+COMP-002,github_pr,https://github.com/coollabsio/coolify/pull/8250,closed,2026-02-10,"Closed by maintainer ShadowArcanist; branch deleted",Prior competing path rejected; not blocking new submission
+COMP-003,algora_claim,https://algora.io/claims/6bdZBHqmWqedLz2A,pending,2026-02-10,"Claim page references PR #8250 and shows pending state",Claim status can lag GitHub closure; use GitHub merge state as acceptance signal
+COMP-004,algora_claim,https://algora.io/claims/NF7kbq3WSHyfX7oY,pending,2026-02-08,"Claim page references PR #8206 and /claim #8154",Potential residual competition; requires rapid execution
+COMP-005,algora_claim,https://algora.io/claims/tiokpEL6FSKEXMcd,pending,2026-02-10,"Variant claim with same fallback concept",Crowded concept space but still unmerged in evidence
+COMP-006,bounty_pool,https://algora.io/claims/6bdZBHqmWqedLz2A,definitive,2026-02-14,"Total prize pool shown as $13,800 with two $6,900 sponsors",Use $13.8k in ROI math
